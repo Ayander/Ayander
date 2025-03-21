@@ -59,6 +59,16 @@ const ayanda = {
 <!-- Contribution graph -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayander&theme=radical" width="100%" alt="Contribution Graph">
 
+<!-- Pacman Contribution Animation -->
+## 🎮 Watch Pacman Eat My Contributions!
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
+    <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 <!-- Connect with me section -->
 ## 🤝 Let's Connect
 <div align="center">
@@ -69,14 +79,6 @@ const ayanda = {
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <!-- Footer -->
 <div align="center">
