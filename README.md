@@ -10,7 +10,7 @@
 
 <!-- Animated banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/720b98ef-6bbb-4840-8b9a-70b13f1cef00" width="100%" alt="Developer Animation">
+  <img src="https://github.com/user-attachments/assets/746ee980-e385-43ed-844f-549dd5c0969e" width="100%" alt="Developer Animation">
 </div>
 
 <!-- About me section with custom styling -->
