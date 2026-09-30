@@ -1,86 +1,135 @@
-<!-- Header with animated wave and typing effect -->
+<!-- Ayanda Sibanyoni | UX Developer profile README -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7D065&center=true&vCenter=true&width=600&lines=I'm+Ayanda+Sibanyoni+%F0%9F%91%8B;Frontend+Developer;UI/UX+Designer;Graphic+Designer" alt="Typing SVG" />
+  <img src="./Assets/banner.png"
+     width="100%"
+     alt="Developer Animation">
 </div>
 
-<!-- Profile views counter with custom style -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayander&style=for-the-badge&color=yellow" alt="Profile Views">
-</p>
+<br>
 
-<!-- Animated banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/746ee980-e385-43ed-844f-549dd5c0969e" width="100%" alt="Developer Animation">
+  <img src="https://img.shields.io/badge/UX_Developer-C9E8F2?style=for-the-badge&labelColor=EAF6F8&color=C9E8F2" alt="UX Developer">
+  <img src="https://img.shields.io/badge/Front--End_Developer-F9D7E3?style=for-the-badge&labelColor=FFF0F4&color=F9D7E3" alt="Front-End Developer">
+  <img src="https://img.shields.io/badge/South_Africa-D9EED0?style=for-the-badge&labelColor=F1F9ED&color=D9EED0" alt="South Africa">
 </div>
 
-<!-- About me section with custom styling -->
-## 💫 About Me
-```javascript
-const ayanda = {
-  location: "South Africa 🇿🇦",
-  role: "Frontend Developer",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Docker", "AWS", "Django", "Tailwind"],
-  interests: ["Web Development", "UI/UX Design", "Graphic Design"],
-  currentFocus: "Building beautiful and responsive web applications",
-  funFact: "I believe in the power of creative coding! 🎨"
-};
-```
+## About Me
 
-<!-- Tech stack with animations -->
-## 🚀 Technologies & Tools
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm a UX Developer with experience across **UX design, front-end development and digital products**.
 
-</div>
+I enjoy understanding the people and problems behind a product, then turning those insights into practical interfaces and working software. My experience includes designing user journeys and interfaces, developing React applications, working with APIs and databases, and maintaining production websites and platforms.
 
-<!-- GitHub stats with custom theme -->
-## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayander&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayander&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+I'm particularly interested in **user-centred design, accessibility, front-end development and creating interfaces that are clear and easy to use**.
 
-<!-- Most used languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayander&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+I'm also continuously developing my software engineering skills and enjoy working in collaborative environments where I can learn, contribute and solve real problems.
 
-<!-- Contribution graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayander&theme=radical" width="100%" alt="Contribution Graph">
+> **Where design meets code.**
 
-<!-- Pacman Contribution Animation -->
-## 🎮 Watch Pacman Eat My Contributions!
+## Skills & Technologies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>UX / UI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-E8D9F7?style=flat-square&logo=figma&logoColor=6B3FA0" alt="Figma">
+        <img src="https://img.shields.io/badge/UX_Research-FDE2C5?style=flat-square&logoColor=6B4E2E" alt="UX Research">
+        <img src="https://img.shields.io/badge/User_Journeys-D7EAF7?style=flat-square&logoColor=24516B" alt="User Journeys">
+        <img src="https://img.shields.io/badge/Information_Architecture-F9D7E3?style=flat-square&logoColor=7A3852" alt="Information Architecture">
+        <img src="https://img.shields.io/badge/Wireframing-FFF0C7?style=flat-square&logoColor=6B581E" alt="Wireframing">
+        <img src="https://img.shields.io/badge/Prototyping-D9EED0?style=flat-square&logoColor=315B2A" alt="Prototyping">
+        <img src="https://img.shields.io/badge/Usability_Testing-E5DDF5?style=flat-square&logoColor=51406F" alt="Usability Testing">
+        <img src="https://img.shields.io/badge/Accessibility-D5EDE8?style=flat-square&logoColor=285E55" alt="Accessibility">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Front-End</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-FFF0A8?style=flat-square&logo=javascript&logoColor=665600" alt="JavaScript">
+        <img src="https://img.shields.io/badge/TypeScript-C9E8F2?style=flat-square&logo=typescript&logoColor=174B63" alt="TypeScript">
+        <img src="https://img.shields.io/badge/React-D7F3F7?style=flat-square&logo=react&logoColor=155E6B" alt="React">
+        <img src="https://img.shields.io/badge/HTML-F9D7C5?style=flat-square&logo=html5&logoColor=7A3E25" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-D7EAF7?style=flat-square&logo=css3&logoColor=24516B" alt="CSS">
+        <img src="https://img.shields.io/badge/Vite-E8D9F7?style=flat-square&logo=vite&logoColor=5B438C" alt="Vite">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Back-End & Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FDE2C5?style=flat-square&logo=python&logoColor=5C4725" alt="Python">
+        <img src="https://img.shields.io/badge/Java-F9D7E3?style=flat-square&logo=openjdk&logoColor=71384D" alt="Java">
+        <img src="https://img.shields.io/badge/Node.js-D9EED0?style=flat-square&logo=nodedotjs&logoColor=315B2A" alt="Node.js">
+        <img src="https://img.shields.io/badge/REST_APIs-D5EDE8?style=flat-square&logoColor=285E55" alt="REST APIs">
+        <img src="https://img.shields.io/badge/SQLite-CCE6F2?style=flat-square&logo=sqlite&logoColor=174B63" alt="SQLite">
+        <img src="https://img.shields.io/badge/PostgreSQL-D7EAF7?style=flat-square&logo=postgresql&logoColor=24516B" alt="PostgreSQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tools & Workflow</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F9D7C5?style=flat-square&logo=git&logoColor=7A3E25" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-E5DDF5?style=flat-square&logo=github&logoColor=51406F" alt="GitHub">
+        <img src="https://img.shields.io/badge/Docker-C9E8F2?style=flat-square&logo=docker&logoColor=174B63" alt="Docker">
+        <img src="https://img.shields.io/badge/CI%2FCD-D9EED0?style=flat-square&logoColor=315B2A" alt="CI/CD">
+        <img src="https://img.shields.io/badge/AWS-FDE2C5?style=flat-square&logo=amazonaws&logoColor=6B4E2E" alt="AWS">
+        <img src="https://img.shields.io/badge/WordPress-D7EAF7?style=flat-square&logo=wordpress&logoColor=24516B" alt="WordPress">
+        <img src="https://img.shields.io/badge/Miro-FFF0C7?style=flat-square&logo=miro&logoColor=6B581E" alt="Miro">
+        <img src="https://img.shields.io/badge/VS_Code-C9E8F2?style=flat-square&logo=visualstudiocode&logoColor=174B63" alt="VS Code">
+      </p>
+    </td>
+  </tr>
+</table>
+
+## What I Work On
+
+- Designing and developing responsive web applications
+- Translating UX research and requirements into working interfaces
+- Building reusable React components
+- Working with APIs, authentication and databases
+- Improving existing websites and digital platforms
+- Considering accessibility and usability throughout the development process
+
+## Highlights
+
+- **1st Place**: GirlCode & Chenosis No-Code Hackathon
+- **Top 50**:1st semester WeThinkCode_ Student
+- Experience working across **UX and software development**
+- Experience building platforms used by **hundreds of students**
+
+## 📚 Currently Learning
+
+🎓 **Higher Certificate in Mathematics & Statistics (NQF 5)** : UNISA *(Currently completing)*
+<br>
+🎨 **Google UX Design Professional Certificate** : Completed
+
+Continuing to grow across **software development, UX design and accessibility**.
+
+
+## Pacman Contribution Graph
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
-    <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg">
+    <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/Ayander/Ayander/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
 
-<!-- Connect with me section -->
-## 🤝 Let's Connect
+## Let's Connect
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayanda-sibanyoni/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ayanda-sibanyoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-C9E8F2?style=for-the-badge&logo=linkedin&logoColor=174B63" alt="LinkedIn">
   </a>
   <a href="mailto:ayandarsibanyoni@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F9D7E3?style=for-the-badge&logo=gmail&logoColor=71384D" alt="Email">
   </a>
 </div>
 
-<!-- Footer -->
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave">
+  <strong>Design with purpose. Build with care. Keep learning.</strong>
 </div>
